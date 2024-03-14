@@ -11,6 +11,7 @@
 		08AF799D2B9F4DA700A0DC1B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AF799C2B9F4DA700A0DC1B /* ContentView.swift */; };
 		08AF799F2B9F4DA900A0DC1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08AF799E2B9F4DA900A0DC1B /* Assets.xcassets */; };
 		08AF79A22B9F4DA900A0DC1B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08AF79A12B9F4DA900A0DC1B /* Preview Assets.xcassets */; };
+		08AF79AF2BA1F94100A0DC1B /* BreedDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AF79AE2BA1F94100A0DC1B /* BreedDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		08AF799C2B9F4DA700A0DC1B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		08AF799E2B9F4DA900A0DC1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08AF79A12B9F4DA900A0DC1B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		08AF79AE2BA1F94100A0DC1B /* BreedDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreedDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				08AF799A2B9F4DA700A0DC1B /* API_CallingApp.swift */,
 				08AF799C2B9F4DA700A0DC1B /* ContentView.swift */,
+				08AF79AE2BA1F94100A0DC1B /* BreedDetailView.swift */,
 				08AF799E2B9F4DA900A0DC1B /* Assets.xcassets */,
 				08AF79A02B9F4DA900A0DC1B /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				08AF799D2B9F4DA700A0DC1B /* ContentView.swift in Sources */,
+				08AF79AF2BA1F94100A0DC1B /* BreedDetailView.swift in Sources */,
 				08AF799B2B9F4DA700A0DC1B /* API_CallingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
